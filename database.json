@@ -6,6 +6,41 @@
       "breed": "Poodle",
       "customerId": 1,
       "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Max",
+      "breed": "Labrador",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Bella",
+      "breed": "Bulldog",
+      "customerId": 3,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Charlie",
+      "breed": "Golden Retriever",
+      "customerId": 4,
+      "locationId": 1
+    },
+    {
+      "id": 5,
+      "name": "Luna",
+      "breed": "Beagle",
+      "customerId": 5,
+      "locationId": 2
+    },
+    {
+      "id": 6,
+      "name": "Cooper",
+      "breed": "German Shepherd",
+      "customerId": 6,
+      "locationId": 1
     }
   ],
   "customers": [
@@ -13,9 +48,71 @@
       "id": 1,
       "name": "Hannah Hall",
       "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "address": "1234 Maple Avenue"
+    },
+    {
+      "id": 3,
+      "name": "Jessica Taylor",
+      "address": "456 Oak Street"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "address": "789 Pine Lane"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "address": "321 Birch Blvd"
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "address": "1357 Cedar Circle"
     }
   ],
-  "employees": [],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "Manager",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "James Carter",
+      "role": "Veterinarian",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Olivia Martinez",
+      "role": "Receptionist",
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Ethan White",
+      "role": "Trainer",
+      "locationId": 2
+    },
+    {
+      "id": 5,
+      "name": "Sophia Harris",
+      "role": "Groomer",
+      "locationId": 1
+    },
+    {
+      "id": 6,
+      "name": "Liam Thompson",
+      "role": "Caretaker",
+      "locationId": 2
+    }
+  ],
   "locations": [
     {
       "id": 1,
@@ -26,6 +123,26 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "id": 3,
+      "name": "Downtown Nashville",
+      "address": "567 Main Street"
+    },
+    {
+      "id": 4,
+      "name": "East Nashville",
+      "address": "123 East Broadway"
+    },
+    {
+      "id": 5,
+      "name": "West Nashville",
+      "address": "456 West End Ave"
+    },
+    {
+      "id": 6,
+      "name": "Music Row",
+      "address": "789 Music Blvd"
     }
   ]
 }
